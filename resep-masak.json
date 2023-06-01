@@ -112,6 +112,46 @@
       "content": "https://raw.githubusercontent.com/fransto1/dev-3/main/konten5.html",
       "video": ""
     },
+	  {
+      "id": 6,
+      "category": "Masak",
+      "title": "Ayam Goreng Ala KFC",
+      "image": "https://github.com/fransto1/dev-3/blob/main/Image/ayam-goreng-kfc.jpg?raw=true",
+      "content": "https://raw.githubusercontent.com/fransto1/dev-3/main/AyamGorengAlaKFC.html",
+      "video": ""
+    },
+	  {
+      "id": 7,
+      "category": "Masak",
+      "title": "Ayam Goreng Crispy",
+      "image": "https://github.com/fransto1/dev-3/blob/main/Image/ayam-goreng-krispi.jpg?raw=true",
+      "content": "https://raw.githubusercontent.com/fransto1/dev-3/main/AyamGorengCrispy.html",
+      "video": ""
+    },
+	  {
+      "id": 8,
+      "category": "Masak",
+      "title": "Ayam Goreng Peking",
+      "image": "https://github.com/fransto1/dev-3/blob/main/Image/ayam-peking.jpg?raw=true",
+      "content": "https://raw.githubusercontent.com/fransto1/dev-3/main/AyamGorengPeking.html",
+      "video": ""
+    },
+	  {
+      "id": 9,
+      "category": "Masak",
+      "title": "Ayam Kecap",
+      "image": "https://github.com/fransto1/dev-3/blob/main/Image/resep-ayam-kecap-bango.jpg?raw=true",
+      "content": "https://raw.githubusercontent.com/fransto1/dev-3/main/AyamKecap.html",
+      "video": ""
+    },
+	  {
+      "id": 10,
+      "category": "Masak",
+      "title": "Ayam Kecap Bumbu Ijo",
+      "image": "https://github.com/fransto1/dev-3/blob/main/Image/bumbu-ijo.jpg?raw=true",
+      "content": "https://raw.githubusercontent.com/fransto1/dev-3/main/AyamKecapBumbuIjo.html",
+      "video": ""
+    }
   ],
   "more_apps": [
     {
